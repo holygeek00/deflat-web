@@ -1,3 +1,4 @@
+'use client'
 import React, { useState, useCallback } from 'react';
 import { Search, ChevronDown, ChevronUp } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
